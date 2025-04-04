@@ -56,14 +56,14 @@ This project is a **real-time coding battle platform** inspired by platforms lik
 
 3️⃣ **Run the Project**
 ```sh
- npm start
+ npm run dev
 ```
 
 4️⃣ **Backend Setup** (Ensure MongoDB and Judge0 API are running)
 ```sh
  cd backend
  npm install
- npm start
+ npm run dev
 ```
 
 ## 📌 How It Works
